@@ -1,0 +1,287 @@
+GNL BASIC TESTS:\n
+---------------------
+TEST #1: 1 line 8 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl1_1.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #2: 2 lines 8 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl1_2.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #3: 4 lines 8 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl1_3.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #4: STDIN: 1 line 8 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl2_1.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #5: STDIN: 2 lines 8 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl2_2.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #6: STDIN: 4 lines 8 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl2_3.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #7: 1 line 16 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl3_1.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #8: 2 lines 16 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl3_2.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #9: 4 lines 16 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl3_3.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #10: STDIN: 1 line 16 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl4_1.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #11: STDIN: 2 lines 16 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl4_2.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #12: STDIN: 4 lines 16 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl4_3.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #13: 1 line 4 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl5_1.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #14: 2 lines 4 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl5_2.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #15: 4 lines 4 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl5_3.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #16: STDIN: 1 line 4 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl6_1.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #17: STDIN: 2 lines 4 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl6_2.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #18: STDIN: 4 lines 4 chars with Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl6_3.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #19: 1 lines 8 chars without Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl7_1.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #20: 2 lines 8 chars without Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl7_2.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #21: 4 lines 8 chars without Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl7_3.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #22: STDIN: 1 line 8 chars without Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl8_1.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #23: STDIN: 2 lines 8 chars without Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl8_2.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #24: STDIN: 4 lines 8 chars without Line Feed (/Users/df/Desktop/libft tests/42FileChecker/gnl8_3.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #25: Bad file descriptor #1 (/Users/df/Desktop/libft tests/42FileChecker/gnl9_1.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+
+---------------------
+TEST #26: Bad file descriptor #2 (/Users/df/Desktop/libft tests/42FileChecker/gnl9_2.c):
+Cannot compile
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.
+

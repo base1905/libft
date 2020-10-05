@@ -1,0 +1,7 @@
+/Users/df/get_next_line/get_next_line.c:17:12: error: use of undeclared identifier 'BUFFER_SIZE'
+        char            buf[BUFFER_SIZE + 1];
+                            ^
+/Users/df/get_next_line/get_next_line.c:24:35: error: use of undeclared identifier 'BUFFER_SIZE'
+                while ((carrier = read(fd, buf, BUFFER_SIZE)))
+                                                ^
+2 errors generated.

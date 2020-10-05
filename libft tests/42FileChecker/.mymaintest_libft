@@ -1,0 +1,25 @@
+./tmp/mymaintest_libft/main.c:484:17: error: too few arguments to function call, expected 2, have 1
+        ft_strtrim(NULL);
+        ~~~~~~~~~~     ^
+/Users/df/libft/libft.h:45:1: note: 'ft_strtrim' declared here
+char    *ft_strtrim(char const *s1, char const *set);
+^
+./tmp/mymaintest_libft/main.c:485:20: error: too few arguments to function call, expected 2, have 1
+        r = ft_strtrim(str);
+            ~~~~~~~~~~    ^
+/Users/df/libft/libft.h:45:1: note: 'ft_strtrim' declared here
+char    *ft_strtrim(char const *s1, char const *set);
+^
+./tmp/mymaintest_libft/main.c:494:21: error: too few arguments to function call, expected 2, have 1
+        r = ft_strtrim(str2);
+            ~~~~~~~~~~     ^
+/Users/df/libft/libft.h:45:1: note: 'ft_strtrim' declared here
+char    *ft_strtrim(char const *s1, char const *set);
+^
+./tmp/mymaintest_libft/main.c:503:21: error: too few arguments to function call, expected 2, have 1
+        r = ft_strtrim(str3);
+            ~~~~~~~~~~     ^
+/Users/df/libft/libft.h:45:1: note: 'ft_strtrim' declared here
+char    *ft_strtrim(char const *s1, char const *set);
+^
+4 errors generated.
